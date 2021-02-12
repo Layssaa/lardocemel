@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+  <h1>
+  LAR DOCEMEL
+  </h1>
+  <img src = " https://www.maxtotalalimentos.com.br/img/seo/9/402/5-curiosidades-sobre-cachorro-viralata-que-voce-precisa-saber.jpg" alt = " cachorro sem raça definida com pelos pretos e algumas manchas brancas com a língua de fora, desmonstrando felicidade"> 
+   <title> Lar docemel </title>
+  <body>
+    <h2>
+     
+        <p>
+          Bem-vindo ao nosso ambiente virtual
+        </p>
+  </h2>
+  <h4>
+      <p>
+      Somos uma iniciativa em prol de <strong> ajudar animais de rua. </strong>
+      </p>
+  </h4>
+  <h4>
+  <p>
+  Somos um time de:
+  </p>
+    <ul>
+    <li> Veterinários </li>
+    <li> Voluntários </li>
+    <li> Vendedores </li>
+    <li> Profissionais de limpeza </li>
+    <li> Cuidadores </li>
+
+    </ul>
+  <p>
+   Buscamos transformar a realidade ao nosso redor em busca de proporcionar melhor qualidade de vida a quem não pode lutar por si.
+  </p>
+  <p>
+  Confira o nosso trabalho <a href = "https://www.instagram.com/instalatasalgueiro/"> aqui </a>
+  </p>
+  </h4>
+  </body>
+  </html>
